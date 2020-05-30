@@ -1,3 +1,0 @@
-# shoaib-bootcamp
-bootcamp 
-shoaib
